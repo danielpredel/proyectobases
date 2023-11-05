@@ -1,0 +1,41 @@
+body {
+    background-image: url("../img/Fondo.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+}
+
+.contenedorPrincipal {
+    /* font-size: 30px;
+    font-family: 'Dancing Script';
+    font-style: normal;
+    font-weight: 500; */
+    margin: 0 auto;
+    margin: 50px;
+    margin-top: 10px;
+    padding: 50px;
+    padding-top: 10px;
+}
+
+/* Margen de cada pagina de la administracion de la base de datos*/
+.contenedor {
+    /* background-image: url("../img/Fondo.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative; */
+    background-image: url(../img/fondo.webp);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+    height: 100%;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.table {
+    background-color: white;
+}
